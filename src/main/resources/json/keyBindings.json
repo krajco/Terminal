@@ -1,0 +1,8 @@
+{
+  "native":{
+    "open_console":"function()"
+  },
+  "app":{
+    "copy":"function2()"
+  }
+}

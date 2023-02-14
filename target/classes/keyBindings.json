@@ -1,0 +1,9 @@
+{
+  "native":{
+    "open_console":"F11"
+  },
+  "app":{
+    "terminal_left": "SHIFT+LEFT",
+    "terminal_right": "SHIFT+RIGHT"
+  }
+}
